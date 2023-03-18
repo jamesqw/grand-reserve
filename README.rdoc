@@ -1,5 +1,3 @@
-{<img src="https://travis-ci.org/nenoalmeida/central_alpha_hoteis.svg?branch=master" alt="Build Status" />}[https://travis-ci.org/nenoalmeida/central_alpha_hoteis]
-
 == Grand-Reserve
 
 Software simples para mostrar como funciona um sistema de gerenciamento de hoteis.
