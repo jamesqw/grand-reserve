@@ -1,0 +1,19 @@
+{<img src="https://travis-ci.org/nenoalmeida/central_alpha_hoteis.svg?branch=master" alt="Build Status" />}[https://travis-ci.org/nenoalmeida/central_alpha_hoteis]
+
+== Central Alpha Hoteis
+
+Software simples para mostrar como funciona um sistema de gerenciamento de hoteis.
+
+Alpha hoteis vai gerencias coisas como vagas dos quartos
+
+Ruby version
+
+Rails Version
+
+Database
+
+Test suit
+
+
+
+
